@@ -140,4 +140,4 @@ Heramba Chandra College | 2010
 > You can enable this once you start pushing code
 
 ```md
-![Shabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Shabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabbir72123&show_icons=true&theme=default)
