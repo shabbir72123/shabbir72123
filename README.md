@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shabbir Alam</h1>
-<h3 align="center">Senior Backend Engineer | Java & Python | Scalable Systems</h3>
+<h3 align="center">Technical Lead | Tech Leadership | Scalable Systems | Product Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shabbiralamb1336ab6/" target="_blank">
