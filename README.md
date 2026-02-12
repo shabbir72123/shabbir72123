@@ -68,10 +68,10 @@ I enjoy solving **hard backend problems**, refactoring legacy systems, and build
 **Iris MediaWorks Limited** | Kolkata, India  
 📅 *Apr 2019 – Nov 2019*
 
-- Worked as a hands-on backend engineer on a core document-checking and scrutiny engine used to validate complex trade documents.
-- Implemented and enhanced rule-processing logic with a focus on performance, scalability, and maintainability.
+- Worked as a hands-on backend engineer on a **core document-checking and scrutiny engine** used to validate complex trade documents.
+- Implemented and enhanced rule-processing logic with a focus on **performance, scalability, and maintainability**.
 - Contributed to building extensible backend components to support evolving business requirements and growing customer usage.
-- Collaborated with product managers and business analysts to understand requirements and translate them into technical solutions.
+- Collaborated with product managers and business analysts to **understand requirements and translate them into technical solutions**.
 - Followed best practices for code quality, testing, and documentation; participated in peer code reviews.
 - Supported performance tuning, monitoring, and automated testing efforts to improve system stability and reliability.
 
