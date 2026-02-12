@@ -49,61 +49,95 @@ I enjoy solving **hard backend problems**, refactoring legacy systems, and build
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu)
 
----
+## 💼 Professional Experience
 
-## 💼 What I Work On (Real Projects)
+### **Technical Lead**  
+**Traydstream Pvt Ltd** | Kolkata, India  
+📅 *Dec 2019 – Present*
 
-### 📄 Trade Document Rule Engine
-**Tech:** Java, Spring Boot, Microservices, MongoDB  
-
-- Built a **rule-based document scrutiny engine** to validate complex trade documents.
-- Implemented configurable business rules for compliance and verification.
-- Optimized for **high throughput and low latency**.
-- Designed the system to be **extensible** as rules evolve.
-
----
-
-### ⚡ High-Performance Rule Processing Platform
-**Tech:** Java, Spring Boot, Async Processing  
-
-- Developed distributed services to process large volumes of rules in parallel.
-- Reduced processing time using **caching and asynchronous execution**.
-- Improved overall system stability and scalability.
+- Led backend development of a **core document-checking and scrutiny engine** used for validating complex trade documents.
+- Architected and implemented **scalable rule engines** optimized for **high throughput and low latency**.
+- Designed extensible systems capable of handling increasing business complexity and customer demand.
+- Mentored and guided developers, enforcing **best practices, code quality, and testing standards**.
+- Collaborated with product managers and business analysts to translate requirements into robust technical solutions.
+- Improved system performance through optimization, monitoring, and automated testing strategies.
 
 ---
 
-### 🐍 Backend Services with FastAPI
-**Tech:** Python, FastAPI, REST APIs  
+### **Software Consultant**  
+**Iris MediaWorks Limited** | Kolkata, India  
+📅 *Apr 2019 – Nov 2019*
 
-- Built lightweight backend services for rule execution and data processing.
-- Designed clean REST APIs with validation and proper error handling.
-- Used Python for rapid feature development and performance tuning.
+- Work in same project but as a consultant.
+- Led backend development of a **core document-checking and scrutiny engine** used for validating complex trade documents.
+- Architected and implemented **scalable rule engines** optimized for **high throughput and low latency**.
+- Designed extensible systems capable of handling increasing business complexity and customer demand.
+- Mentored and guided developers, enforcing **best practices, code quality, and testing standards**.
+- Collaborated with product managers and business analysts to translate requirements into robust technical solutions.
+- Improved system performance through optimization, monitoring, and automated testing strategies.
 
 ---
 
-### 🔌 API Integrations (REST & SOAP)
-**Tech:** Java, Spring MVC, JAX-WS  
+### **Software Developer**  
+**Azure Software Pvt Ltd** | Kolkata, India  
+📅 *Jan 2016 – Apr 2019*
 
-- Integrated multiple third-party APIs (REST & SOAP).
-- Developed SOAP producers for transaction monitoring.
-- Built reporting modules using Spring MVC and Hibernate.
+- Architected and developed **high-performance rule engines** using **Spring Boot and microservices**.
+- Built distributed services for complex rule processing with **low-latency responses**.
+- Enhanced trade document verification systems by applying caching, async processing, and architectural refactoring.
+- Improved system throughput and reliability by following scalable design patterns.
+
+---
+
+### **Senior Java / J2EE Developer**  
+**Skypoint India E-Services Pvt Ltd** | Kolkata, India  
+📅 *Apr 2015 – Dec 2016*
+
+- Integrated third-party travel APIs using **RESTful web services**.
+- Developed user and transaction modules based on business requirements.
+- Built SOAP producers using **JAX-WS** for transaction monitoring.
+- Created reporting applications using **Spring MVC and Hibernate**.
+
+---
+
+### **Software Developer (Trainee)**  
+**PCS Global Pvt Ltd** | Kolkata, India  
+📅 *Jan 2015 – Apr 2015*
+
+- Worked on an in-house job portal application.
+- Fixed bugs and contributed to new feature development, including the Employers Module.
+
+---
+
+### **IT Recruiter**  
+**HD Dimension Corp** | Kolkata, India  
+📅 *Jan 2011 – Aug 2012*
+
+- Screened resumes and conducted initial technical interviews.
+- Coordinated interview processes between candidates and hiring teams.
 
 ---
 
 ## 🎓 Education
 
 🎓 **Master of Computer Applications (MCA)**  
-Dr. B. C. Roy Engineering College  
+Dr. B. C. Roy Engineering College | 2015  
 
 🎓 **Bachelor of Commerce**  
-Heramba Chandra College  
+Heramba Chandra College | 2010  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Interests & Hobbies
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username
+- 🏏 Playing Cricket  
+- 🎵 Listening to Music  
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+> You can enable this once you start pushing code
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Shabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
